@@ -26,7 +26,7 @@ then clears the net (if it hits the net it is a let and the player reserves) and
 
 # Winning the Game
 The winner of the match is the first to reach the allotted number of games, normally three, four or five.
-To win a game you must reach 11 points, although if the scores become level at 10-10 it is then the first player to lead by two points that is awarded the game.
+To win a game you must reach 11 points, although if the scores become level at 7-7 it is then the first player to lead by two points that is awarded the game.
 
 ### Game Start Window
 
@@ -38,8 +38,8 @@ To win a game you must reach 11 points, although if the scores become level at 1
 
 #### For Player A:
 
-	To move paddle up press 'u'
-	To move paddle down press 'e'
+	To move paddle up press 'w'
+	To move paddle down press 's'
 
 ### For Player B:
 
@@ -56,7 +56,7 @@ To win a game you must reach 11 points, although if the scores become level at 1
 
 This project is Open Source licensed.
 
--->Rules of Table Tennis (Ping Pong):
+### Rules of Table Tennis (Ping Pong):
 - Ping pong is played over a pre-agreed number of games and the first to 11 points wins each game.
 - The toss of a coin or another form of lot-drawing determines which of the players shall serve first.
 - Each table tennis player serves twice in turn and serves must be made from an open palm,the ball tossed six inches then struck so it bounces on the service side, clears the net, then bounces on the receiver’s side.
