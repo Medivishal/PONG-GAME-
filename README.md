@@ -18,7 +18,7 @@ into the net or by playing a shot which they are unable to hit at all. When serv
 your opponent wins the point if you fail to make a valid serve – one that bounces on your side of the table,
 then clears the net (if it hits the net it is a let and the player reserves) and bounces on their side.
 
-### Rules of Table Tennis (Ping Pong):
+### Rules of Ping Pong:
 - Ping pong is played over a pre-agreed number of games and the first to 11 points wins each game.
 - The toss of a coin or another form of lot-drawing determines which of the players shall serve first.
 - Each table tennis player serves twice in turn and serves must be made from an open palm,the ball tossed six inches then struck so it bounces on the service side, clears the net, then bounces on the receiver’s side.
@@ -62,4 +62,3 @@ To win a game you must reach 11 points, although if the scores become level at 7
 ## Disclaimer:
 
 This project is Open Source licensed.
-
