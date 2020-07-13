@@ -45,4 +45,3 @@ the ball tossed six inches then struck so it bounces on the service side, clears
 -At 10-10 each player serves once only, in turn, until one player established a two point lead and wins the game.
 -After each game the players rotate both the end of the table from which they are playing as well as who serves and receives the ball first.
 -In the deciding game of a match the players swap ends after either player reaches five points.
- 
