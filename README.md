@@ -1,47 +1,46 @@
 # PONG-GAME
--->Table Tennis (Ping Pong) RulesTable Tennis (Ping Pong)
+- Table Tennis (Ping Pong) RulesTable Tennis (Ping Pong)
 Table tennis has been an Olympic sport since 1988 and is hugely popular in Asia, 
 although it is played all over the world from the dusty streets of Ethiopia to the public schools of rural England. 
 The game did indeed begin in England at the end of the 19th century, first as a postprandial parlour game for upper classes.
 The sound of the ball on early bats gave it the name “ping pong” but as this became a trademarked term in some countries table tennis soon became the more common name.
 
--->Object of the Game
+- Object of the Game
 As of 2001 the aim of the game is to score 11 points (it was previously 21) by outmanoeuvring your opponent into 
 either hitting the ball into the net, hitting it off the table or missing it completely.
 Matches are normally contested as best of five, seven or nine games:
 that is to say, the first person to reach 11 points in three, four or five games respectively.
 
--->Players & Equipment
+- Players & Equipment
 In singles play it is a game of one against one, whilst doubles pits two against two,
 although it is also possible to play two against one in informal situations (family holidays for instance!).
 Here we shall focus on singles rules.
 
--->Little equipment is needed to play ping pong, which is unsurprising given it was originally an improvised game played on a table using 
+- Little equipment is needed to play ping pong, which is unsurprising given it was originally an improvised game played on a table using 
 books for both the net and the bats! Officially the game is played using a 40mm diameter, 
 white (or sometimes orange) table tennis ball weighing 2.7g; rackets (official term)
 that are normally called bats (UK) or paddles (USA) and are red on one side and black on the other;
 and a table measuring 2.74m (9ft) long, 76cm (30 inches) high and 1.52m (5ft) wide.
 The table is usually blue or green and has a 15.25cm (6 inch) net across its width, bisecting its length.
 
--->Scoring
+- Scoring
 Scoring is done by forcing your opponent into hitting the ball long or wide of the table or otherwise
 into the net or by playing a shot which they are unable to hit at all. When serving,
 your opponent wins the point if you fail to make a valid serve – one that bounces on your side of the table,
 then clears the net (if it hits the net it is a let and the player reserves) and bounces on their side.
 
--->Volleying the ball is not allowed, nor is obstructing it, whilst a double hit will also result in the awarding of the point to your opponent.
+- Volleying the ball is not allowed, nor is obstructing it, whilst a double hit will also result in the awarding of the point to your opponent.
 Note that in table tennis the edges of the table (the lines) are “in” but the side is not.
 
--->Winning the Game
+- Winning the Game
 The winner of the match is the first to reach the allotted number of games, normally three, four or five.
 To win a game you must reach 11 points, although if the scores become level at 10-10 it is then the first player to lead by two points that is awarded the game.
 
 -->Rules of Table Tennis (Ping Pong):
--Ping pong is played over a pre-agreed number of games and the first to 11 points wins each game.
--The toss of a coin or another form of lot-drawing determines which of the players shall serve first.
--Each table tennis player serves twice in turn and serves must be made from an open palm,
-the ball tossed six inches then struck so it bounces on the service side, clears the net, then bounces on the receiver’s side.
--Points are decided as described above and games must be won by two clear points.
--At 10-10 each player serves once only, in turn, until one player established a two point lead and wins the game.
--After each game the players rotate both the end of the table from which they are playing as well as who serves and receives the ball first.
--In the deciding game of a match the players swap ends after either player reaches five points.
+- Ping pong is played over a pre-agreed number of games and the first to 11 points wins each game.
+- The toss of a coin or another form of lot-drawing determines which of the players shall serve first.
+- Each table tennis player serves twice in turn and serves must be made from an open palm,the ball tossed six inches then struck so it bounces on the service side, clears the net, then bounces on the receiver’s side.
+- Points are decided as described above and games must be won by two clear points.
+- At 10-10 each player serves once only, in turn, until one player established a two point lead and wins the game.
+- After each game the players rotate both the end of the table from which they are playing as well as who serves and receives the ball first.
+- In the deciding game of a match the players swap ends after either player reaches five points.
