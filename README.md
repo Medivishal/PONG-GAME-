@@ -44,3 +44,34 @@ To win a game you must reach 11 points, although if the scores become level at 1
 - At 10-10 each player serves once only, in turn, until one player established a two point lead and wins the game.
 - After each game the players rotate both the end of the table from which they are playing as well as who serves and receives the ball first.
 - In the deciding game of a match the players swap ends after either player reaches five points.
+# PING PONG GAME
+
+It is multiplayer ping pong game build on turtle module. where two persons can play this game.you can simply run the file to play the game by downloading all the files that are necessary to the game.you need to download music effects also to get good experience with the game.
+
+### Game Start Window
+
+![](Start_Point.png)
+
+## Controls
+
+### Arrow Keys for Direction:
+
+#### For Player A:
+
+	To move paddle up press 'u'
+	To move paddle down press 'e'
+
+### For Player B:
+
+	To move paddle up press 'UP_ARROW'
+	To move paddle down press 'DOWN_ARROW'
+
+
+## Dependencies:
+
+1. Python v3.x is required.
+2. turtle module is also required.
+
+## Disclaimer:
+
+This project is Open Source licensed.
